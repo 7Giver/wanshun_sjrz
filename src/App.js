@@ -1,6 +1,6 @@
 import React, { PureComponent, Fragment } from "react";
 import "@/assets/scss/base.css";
-
+import "antd/dist/antd.less";
 import { HashRouter, Route } from "react-router-dom";
 
 
